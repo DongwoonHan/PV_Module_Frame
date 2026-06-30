@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+tensorflow==2.15.0
+keras==2.15.0
+shap
+bayesian-optimization
+pyswarms
+joblib
+seaborn
